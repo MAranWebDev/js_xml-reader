@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<VW_TRACKING>
+	<SUPPLIER Id="VSNR">
+		<ACCOUNT Billing="010191" Shipping="010191">
+			<ITEM Received_at="2021-11-13T03:40:00" Status="999" Tracking_Id="999999" Type="SP" Origin="PHN" Created_at="2021-11-12T10:12:00" Submitted_at="">
+				<STATUS_DESCRIPTION>Station: INSPECTION</STATUS_DESCRIPTION>
+				<STATUS_DESCRIPTION>Tray Number: 99999</STATUS_DESCRIPTION>
+				<DESCRIPTION>Material: Wood  </DESCRIPTION>
+				<DESCRIPTION>Invoice: 234235543</DESCRIPTION>
+			</ITEM>
+		</ACCOUNT>
+	</SUPPLIER>
+</VW_TRACKING>
